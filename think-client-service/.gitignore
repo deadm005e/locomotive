@@ -1,0 +1,13 @@
+.DS_Store
+
+data/**/*
+!data/**/
+data/cache/*
+
+configs/**/*
+!configs/**/
+
+
+!*.draft
+
+config.php
